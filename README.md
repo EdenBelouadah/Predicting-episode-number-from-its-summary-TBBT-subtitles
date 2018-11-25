@@ -1,2 +1,2 @@
 # Predicting-episode-number-from-its-summary-TBBT-subtitles
-This project concsists of predicting the episode's number from it's summary using text processing techniques
+This project consists in predicting the episode's number from its summary using text processing techniques
